@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2A32B6271D9024B200719713 /* StickerPackExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 2A32B6261D9024B200719713 /* StickerPackExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		2A32B6271D9024B200719713 /* Stickers.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 2A32B6261D9024B200719713 /* Stickers.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		2A32B62B1D9024B200719713 /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 2A32B62A1D9024B200719713 /* Stickers.xcstickers */; };
 		2A32B62C1D9024B200719713 /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 2A32B62A1D9024B200719713 /* Stickers.xcstickers */; };
 /* End PBXBuildFile section */
@@ -29,7 +29,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				2A32B6271D9024B200719713 /* StickerPackExtension.appex in Embed App Extensions */,
+				2A32B6271D9024B200719713 /* Stickers.appex in Embed App Extensions */,
 			);
 			name = "Embed App Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -38,7 +38,7 @@
 
 /* Begin PBXFileReference section */
 		2A32B6221D9024B200719713 /* MrCondom.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MrCondom.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		2A32B6261D9024B200719713 /* StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = StickerPackExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		2A32B6261D9024B200719713 /* Stickers.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = Stickers.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A32B62A1D9024B200719713 /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; name = Stickers.xcstickers; path = StickerPackExtension/Stickers.xcstickers; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -55,7 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				2A32B6221D9024B200719713 /* MrCondom.app */,
-				2A32B6261D9024B200719713 /* StickerPackExtension.appex */,
+				2A32B6261D9024B200719713 /* Stickers.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -80,9 +80,9 @@
 			productReference = 2A32B6221D9024B200719713 /* MrCondom.app */;
 			productType = "com.apple.product-type.application.messages";
 		};
-		2A32B6251D9024B200719713 /* StickerPackExtension */ = {
+		2A32B6251D9024B200719713 /* Stickers */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2A32B62F1D9024B200719713 /* Build configuration list for PBXNativeTarget "StickerPackExtension" */;
+			buildConfigurationList = 2A32B62F1D9024B200719713 /* Build configuration list for PBXNativeTarget "Stickers" */;
 			buildPhases = (
 				2A32B6241D9024B200719713 /* Resources */,
 			);
@@ -90,9 +90,9 @@
 			);
 			dependencies = (
 			);
-			name = StickerPackExtension;
+			name = Stickers;
 			productName = StickerPackExtension;
-			productReference = 2A32B6261D9024B200719713 /* StickerPackExtension.appex */;
+			productReference = 2A32B6261D9024B200719713 /* Stickers.appex */;
 			productType = "com.apple.product-type.app-extension.messages-sticker-pack";
 		};
 /* End PBXNativeTarget section */
@@ -129,7 +129,7 @@
 			projectRoot = "";
 			targets = (
 				2A32B6211D9024B200719713 /* MrCondom */,
-				2A32B6251D9024B200719713 /* StickerPackExtension */,
+				2A32B6251D9024B200719713 /* Stickers */,
 			);
 		};
 /* End PBXProject section */
@@ -156,7 +156,7 @@
 /* Begin PBXTargetDependency section */
 		2A32B6291D9024B200719713 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2A32B6251D9024B200719713 /* StickerPackExtension */;
+			target = 2A32B6251D9024B200719713 /* Stickers */;
 			targetProxy = 2A32B6281D9024B200719713 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -254,11 +254,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 3NL9BUS2QV;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.iashchuk.MrCondom.StickerPackExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.iashchuk.MrCondom.Stickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -268,11 +271,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 3NL9BUS2QV;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.iashchuk.MrCondom.StickerPackExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.iashchuk.MrCondom.Stickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -282,11 +288,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 3NL9BUS2QV;
 				INFOPLIST_FILE = MrCondom/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.iashchuk.MrCondom;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -295,11 +304,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 3NL9BUS2QV;
 				INFOPLIST_FILE = MrCondom/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.iashchuk.MrCondom;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -316,7 +328,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2A32B62F1D9024B200719713 /* Build configuration list for PBXNativeTarget "StickerPackExtension" */ = {
+		2A32B62F1D9024B200719713 /* Build configuration list for PBXNativeTarget "Stickers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2A32B6301D9024B200719713 /* Debug */,
