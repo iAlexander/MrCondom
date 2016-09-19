@@ -1,9 +1,56 @@
 {
+  "stickers" : [
+    {
+      "filename" : "a.sticker"
+    },
+    {
+      "filename" : "b.sticker"
+    },
+    {
+      "filename" : "c.sticker"
+    },
+    {
+      "filename" : "d.sticker"
+    },
+    {
+      "filename" : "e.sticker"
+    },
+    {
+      "filename" : "f.sticker"
+    },
+    {
+      "filename" : "g.sticker"
+    },
+    {
+      "filename" : "h.sticker"
+    },
+    {
+      "filename" : "l.sticker"
+    },
+    {
+      "filename" : "j.sticker"
+    },
+    {
+      "filename" : "k.sticker"
+    },
+    {
+      "filename" : "i.sticker"
+    },
+    {
+      "filename" : "m.sticker"
+    },
+    {
+      "filename" : "n.sticker"
+    },
+    {
+      "filename" : "o.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
   },
   "properties" : {
-    "grid-size" : "regular"
+    "grid-size" : "small"
   }
 }
