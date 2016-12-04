@@ -13,7 +13,8 @@
 
 ##<a name="description"> Description </a>
 
-I want to introduce you today the new sticker superhero - Mr. Condom! iOS stickers pack ```Mr. Condom``` is the great bundle of stickers for iMessage, that includes 15 handcrafted images. This guy will bring you and your friends a lot of funny moments.
+I want to introduce you today the new sticker superhero - Mr. Condom!  
+iOS stickers pack ```Mr. Condom``` is the great bundle of stickers for iMessage, that includes 15 handcrafted images. This guy will bring you and your friends a lot of funny moments.
 
 ##<a name="screenshots"> Screenshots </a>
 
