@@ -1,12 +1,11 @@
-[![Language](https://img.shields.io/badge/Swift-3.0-orange.svg?style=flat")](https://ialexander.me/2fYVNbX)
-[![Platform](https://img.shields.io/badge/Platform-iOS | iMessage-lightgray.svg?style=flat")](https://ialexander.me/2fYVNbX)
-[![Devices](https://img.shields.io/badge/Devices-iPhone | iPad-green.svg?style=flat")](https://ialexander.me/2fYVNbX)
-[![Version](https://img.shields.io/badge/App version-2.0-blue.svg?style=flat")](https://ialexander.me/2fYVNbX)
-[![AppStore](https://img.shields.io/badge/App Store-free-brightgreen.svg?style=flat")](https://ialexander.me/2e3ZYpi)
+[![Language](https://img.shields.io/badge/Swift-3.0-orange.svg?style=flat")](https://ialexander.me/2h1Sa63)
+[![Platform](https://img.shields.io/badge/Platform-iOS | iMessage-lightgray.svg?style=flat")](https://ialexander.me/2h1Sa63)
+[![Devices](https://img.shields.io/badge/Devices-iPhone | iPad-green.svg?style=flat")](https://ialexander.me/2h1Sa63)
+[![Version](https://img.shields.io/badge/App version-1.0-blue.svg?style=flat")](https://ialexander.me/2h1Sa63)
 
-[![iHalloween - bundle of stickers for iMessage chats](https://raw.githubusercontent.com/iAlexander/iHalloween/master/Header.jpg)](https://ialexander.me/2e3ZYpi)
+[![Mr. Condom - iMessage Superhero Funny Stickers](https://raw.githubusercontent.com/iAlexander/MrCondom/master/Header.jpg)](https://ialexander.me/2h1Sa63)
 
-## iHalloween - bundle of stickers for iMessage chats, available on <a href="https://ialexander.me/2e3ZYpi">App Store</a>
+## Mr. Condom - Superhero stickers for iMessage chats, App Store rejected
 1. [Description](#description)
 2. [Screenshots](#screenshots)
 3. [License](#license)
@@ -19,7 +18,7 @@ iOS stickers pack ```iHalloween``` is the great bundle of stickers for iMessage,
 
 ##<a name="screenshots"> Screenshots </a>
 
-[![HOMEPOK - Catalog of Ukrainian vehicle plates](https://raw.githubusercontent.com/iAlexander/iHalloween/master/Screenshots.jpg)](https://ialexander.me/2e3ZYpi)
+[![Mr. Condom - iMessage Superhero Funny Stickers](https://raw.githubusercontent.com/iAlexander/iHalloween/master/Screenshots.jpg)](https://ialexander.me/2e3ZYpi)
 
 ##<a name="license"> License </a>
 
