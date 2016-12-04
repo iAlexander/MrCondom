@@ -5,7 +5,7 @@
 
 [![Mr. Condom - iMessage Superhero Funny Stickers](https://raw.githubusercontent.com/iAlexander/MrCondom/master/Header.jpg)](https://ialexander.me/2h1Sa63)
 
-## Mr. Condom - Superhero stickers for iMessage chats, App Store rejected
+## Mr. Condom - Superhero stickers for iMessage chats, rejected on App Store
 1. [Description](#description)
 2. [Screenshots](#screenshots)
 3. [License](#license)
@@ -13,8 +13,7 @@
 
 ##<a name="description"> Description </a>
 
-Prepare your iPhone to be ready for the best Halloween party ever...  
-iOS stickers pack ```iHalloween``` is the great bundle of stickers for iMessage, that includes 36 handcrafted images that are related to Halloween. You will get Halloween banners, scary stickers, pumpkin Jack, zombies, ghosts, masks and a lot of other stickers for your iMessage chats.
+I want to introduce you today the new sticker superhero - Mr. Condom! iOS stickers pack ```Mr. Condom``` is the great bundle of stickers for iMessage, that includes 15 handcrafted images. This guy will bring you and your friends a lot of funny moments.
 
 ##<a name="screenshots"> Screenshots </a>
 
@@ -22,7 +21,7 @@ iOS stickers pack ```iHalloween``` is the great bundle of stickers for iMessage,
 
 ##<a name="license"> License </a>
 
-```iHalloween``` is released under the MIT license. See the ```LICENSE``` file for details  
+```Mr. Condom``` is released under the MIT license. See the ```LICENSE``` file for details  
 Copyright © 2016 Alexander Iashchuk, <a href="https://iashchuk.com">iashchuk.com</a>
 
 ##<a name="contact"> Contact </a>
