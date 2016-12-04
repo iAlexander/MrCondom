@@ -18,7 +18,7 @@ iOS stickers pack ```Mr. Condom``` is the great bundle of stickers for iMessage,
 
 ##<a name="screenshots"> Screenshots </a>
 
-[![Mr. Condom - iMessage Superhero Funny Stickers](https://raw.githubusercontent.com/iAlexander/iHalloween/master/Screenshots.jpg)](https://ialexander.me/2e3ZYpi)
+[![Mr. Condom - iMessage Superhero Funny Stickers](https://raw.githubusercontent.com/iAlexander/MrCondom/master/Screenshots.jpg)](https://ialexander.me/2h1Sa63)
 
 ##<a name="license"> License </a>
 
