@@ -11,21 +11,22 @@
 3. [License](#license)
 4. [Contact](#contact)
 
-##<a name="description"> Description </a>
+##<a name="description"> Description: </a>
 
 I want to introduce you today the new sticker superhero - Mr. Condom!  
 iOS stickers pack ```Mr. Condom``` is the great bundle of stickers for iMessage, that includes 15 handcrafted images. This guy will bring you and your friends a lot of funny moments.
 
-##<a name="screenshots"> Screenshots </a>
+##<a name="screenshots"> Screenshots: </a>
 
 [![Mr. Condom - iMessage Superhero Funny Stickers](https://raw.githubusercontent.com/iAlexander/MrCondom/master/Screenshots.jpg)](https://ialexander.me/2h1Sa63)
 
-##<a name="license"> License </a>
+##<a name="license"> License: </a>
 
-```Mr. Condom``` is released under the MIT license. See the ```LICENSE``` file for details  
-Copyright © 2016 Alexander Iashchuk, <a href="https://iashchuk.com">iashchuk.com</a>
+```Mr. Condom``` is released under the MIT license. Check the ```LICENSE``` file for details.  
+Copyright © 2016 Alexander Iashchuk, <a href="https://iashchuk.com">iashchuk.com</a>.
 
-##<a name="contact"> Contact </a>
+##<a name="contact"> Contact: </a>
 
-You can read, follow or drop me a line on my personal Twitter account - [@iAlexander13](https://twitter.com/iAlexander13)  
-If you find any issues on the project, you can open a ticket. Pull requests are also welcome!
+You can read, follow or drop me a line on my personal Twitter account - [@iAlexander13](https://twitter.com/iAlexander13).  
+If you find any issues on the project, you can open a ticket.  
+Pull requests are also welcome!
