@@ -1,8 +1,8 @@
 [![Language](https://img.shields.io/badge/Swift-3.0-orange.svg?style=flat")](https://ialexander.me/2h1Sa63)
 [![Platform](https://img.shields.io/badge/Platform-iOS | iMessage-lightgray.svg?style=flat")](https://ialexander.me/2h1Sa63)
 [![Devices](https://img.shields.io/badge/Devices-iPhone | iPad-green.svg?style=flat")](https://ialexander.me/2h1Sa63)
-[![Version](https://img.shields.io/badge/App version-Final-blue.svg?style=flat")](https://ialexander.me/2h1Sa63)
-[![AppStore](https://img.shields.io/badge/App Store-Rejected-brightgreen.svg?style=flat")](https://ialexander.me/2h1Sa63)
+[![Version](https://img.shields.io/badge/App version-1.0-blue.svg?style=flat")](https://ialexander.me/2h1Sa63)
+[![AppStore](https://img.shields.io/badge/App Store-Rejected-red.svg?style=flat")](https://ialexander.me/2h1Sa63)
 
 [![Mr. Condom - iMessage Superhero Funny Stickers](https://raw.githubusercontent.com/iAlexander/MrCondom/master/Header.jpg)](https://ialexander.me/2h1Sa63)
 
