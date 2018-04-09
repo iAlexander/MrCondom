@@ -4,14 +4,19 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>StickerPackExtension.xcscheme</key>
+		<key>MrCondom.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>2A32B6211D9024B200719713</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>2A32B6251D9024B200719713</key>
 		<dict>
 			<key>primary</key>
